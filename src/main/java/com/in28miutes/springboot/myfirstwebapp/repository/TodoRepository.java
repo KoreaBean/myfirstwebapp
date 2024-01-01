@@ -18,6 +18,7 @@ public class TodoRepository {
         todoList.add(new Todo(3, "Gyun","Learn JAVAcript", LocalDate.now().plusYears(3),false));
         todoList.add(new Todo(4, "kim","Learn JAVAScript", LocalDate.now().plusYears(1),false));
         todoList.add(new Todo(5, "kim","Learn JAVAScript", LocalDate.now().plusYears(1),false));
+        todoList.add(new Todo(5, "kim","Learn JAVAScript", LocalDate.now().plusYears(1),false));
 
     }
 
